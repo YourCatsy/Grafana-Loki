@@ -1,1 +1,17 @@
+Common labels: {"filename":"/var/log/app.log","job":"varlogs"}
+Line limit: "1000 (11 displayed)"
+Total bytes processed: "32.1  kB"
+
+
+2025-01-01 22:54:37.946	2022-20-21 00:20:33.923 [http-nio-8080-exec-5] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+2025-01-01 22:54:37.945	2022-14-21 00:14:29.668 [http-nio-8080-exec-1] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+2025-01-01 22:54:37.945	2022-12-04 11:12:03.051 [http-nio-8080-exec-10] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+2025-01-01 22:54:37.944	2022-10-25 16:10:37.161 [http-nio-8080-exec-2] ERROR org.practicalsolutions.controller.IndexServlet - Instead Integer we received another type: java.lang.NumberFormatException: For input string: ""
+2025-01-01 22:54:37.944	2022-53-25 15:53:33.376 [http-nio-8080-exec-7] ERROR org.practicalsolutions.controller.IndexServlet - Instead Integer we received another type: java.lang.NumberFormatException: For input string: ""
+2025-01-01 22:54:37.940	2022-48-28 15:48:19.871 [http-nio-8080-exec-6] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: No suitable driver found for jdbc:postgresql://localhost:5432/solutions?serverTimezone=UTC
+2025-01-01 22:54:37.939	2022-28-28 15:28:23.224 [http-nio-8080-exec-7] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot load JDBC driver class 'org.postgresql.Driver'
+2025-01-01 22:54:37.939	2022-25-28 15:25:01.340 [http-nio-8080-exec-7] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot load JDBC driver class 'org.postgresql.Driver'
+2025-01-01 22:54:37.939	2022-16-28 15:16:32.212 [http-nio-8080-exec-4] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot load JDBC driver class 'org.postgresql.Driver'
+2025-01-01 22:54:37.938	2022-44-28 10:44:46.499 [http-nio-8080-exec-3] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
+2025-01-01 22:54:37.938	2022-44-28 10:44:14.509 [http-nio-8080-exec-9] ERROR org.practicalsolutions.dao.DBCPDataSource - Could not get connection to DB: java.sql.SQLException: Cannot create PoolableConnectionFactory (Communications link failure
 
